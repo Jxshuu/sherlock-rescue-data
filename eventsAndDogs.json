@@ -4,19 +4,19 @@
         "title": "Dog Walk Fundraiser",
         "date": "January 20, 2025",
         "description": "Join us for a fun-filled walk with our furry friends! Proceeds go towards food and medical care for rescue dogs.",
-        "imageUrl": "./assets/images/dog-walk.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/Jxshuu/sherlock-rescue-data/refs/heads/main/images/dogwalk.webp"
       },
       {
         "title": "Adoption Day",
         "date": "February 14, 2025",
         "description": "Fall in love with your new best friend this Valentine's Day. Meet our adorable rescues looking for their forever homes.",
-        "imageUrl": "./assets/images/adoption-day.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/Jxshuu/sherlock-rescue-data/refs/heads/main/images/adoptionday.webp"
       },
       {
         "title": "Volunteer Meetup",
         "date": "March 5, 2025",
         "description": "Learn how you can make a difference in the lives of rescue dogs. Sign up to be a volunteer!",
-        "imageUrl": "./assets/images/volunteer-meetup.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/Jxshuu/sherlock-rescue-data/refs/heads/main/images/dogvolunteer.jpg"
       }
     ],
     "dogs": [
