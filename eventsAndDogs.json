@@ -1,0 +1,40 @@
+{
+    "events": [
+      {
+        "title": "Dog Walk Fundraiser",
+        "date": "January 20, 2025",
+        "description": "Join us for a fun-filled walk with our furry friends! Proceeds go towards food and medical care for rescue dogs.",
+        "imageUrl": "./assets/images/dog-walk.jpg"
+      },
+      {
+        "title": "Adoption Day",
+        "date": "February 14, 2025",
+        "description": "Fall in love with your new best friend this Valentine's Day. Meet our adorable rescues looking for their forever homes.",
+        "imageUrl": "./assets/images/adoption-day.jpg"
+      },
+      {
+        "title": "Volunteer Meetup",
+        "date": "March 5, 2025",
+        "description": "Learn how you can make a difference in the lives of rescue dogs. Sign up to be a volunteer!",
+        "imageUrl": "./assets/images/volunteer-meetup.jpg"
+      }
+    ],
+    "dogs": [
+      {
+        "name": "Buddy",
+        "bio": "Buddy is a 3-year-old Labrador who loves playing fetch and enjoys long walks.",
+        "imageUrl": "./assets/images/buddy.jpg"
+      },
+      {
+        "name": "Luna",
+        "bio": "Luna is a sweet 2-year-old Beagle who loves cuddles and is great with kids.",
+        "imageUrl": "./assets/images/luna.jpg"
+      },
+      {
+        "name": "Max",
+        "bio": "Max is a playful 1-year-old Terrier mix who loves adventures and making new friends.",
+        "imageUrl": "./assets/images/max.jpg"
+      }
+    ]
+  }
+  
