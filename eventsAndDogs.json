@@ -23,17 +23,17 @@
       {
         "name": "Buddy",
         "bio": "Buddy is a 3-year-old Labrador who loves playing fetch and enjoys long walks.",
-        "imageUrl": "./assets/images/buddy.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/Jxshuu/sherlock-rescue-data/refs/heads/main/images/buddy.jpg"
       },
       {
         "name": "Luna",
         "bio": "Luna is a sweet 2-year-old Beagle who loves cuddles and is great with kids.",
-        "imageUrl": "./assets/images/luna.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/Jxshuu/sherlock-rescue-data/refs/heads/main/images/luna.jpg"
       },
       {
         "name": "Max",
         "bio": "Max is a playful 1-year-old Terrier mix who loves adventures and making new friends.",
-        "imageUrl": "./assets/images/max.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/Jxshuu/sherlock-rescue-data/refs/heads/main/images/max.jpg"
       }
     ]
   }
